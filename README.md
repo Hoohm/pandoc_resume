@@ -1,6 +1,6 @@
 # Paul Fenwick's Resume
 
-My resume is based upon mszep's fabuous pandoc resume scheme. To build, simply clone and `make`.
+My resume is based upon [mszep](https://github.com/mszep)'s fabuous [pandoc resume](https://github.com/mszep/pandoc_resume) scheme. To build, simply clone and `make`.
 
 I've updated the `Makefile` to handle multiple input files, which allows for local references to be
 included which do not get published to git.
