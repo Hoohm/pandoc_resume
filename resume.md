@@ -11,17 +11,40 @@ paul.j.fenwick@gmail.com
 
 - Wrote organisation-wide internet traffic accounting software
 
-## Perl Trainer and Consultant
+## Perl Trainer and Consultant, 2001-Present
 
-## Public Speaker
+Founded and operated Perl Training Australia, which has delivered Perl and technology training to thousands of attendees across Australia, New Zealand, the Middle East, and Asia.
 
-## Perl's `autodie` pragma
+## Public Speaker, 2004-Present
+
+| Partial speaking history: http://lanyrd.com/profile/pjf/sessions/
+
+Presented extensively on numerous technical and non-technical topics, including information security, business development, software engineering, project failure, web technologies, facebook applications, new Perl releases, cognitive biases, mental health, motivation and automation, social and global justice, asteroid mining, machine ethics, community management, and Klingon programming.
+
+Keynoted at conferences worldwide, including OSCON, Linux.conf.au, /dev/world, SAGE-AU, ITx, BuzzConf, Open Source Days, ConFoo, Open Source Bridge, and others.
+
+## Perl's `autodie` pragma, 2007
+
+| Main techologies: perl, travis-ci, git
+
+Wrote Perl's `autodie` pragma which adds exception-oriented features to Perl's built-in
+functions, greatly reducing the effort required for error-handling, and reducing the
+chance of missing error conditions in everyday programming. The pragma was rapidly
+adopted as part of the core language, and widely recommended as essential for all Perl
+programmers in books such as "Modern Perl", "Mastering Perl", and "Effective Perl Programming".
 
 ## Embedded systems, 2012-Present
 
-| Main technologies: C++, platformio, arduino, git
+| Main technologies: C++, platformio, arduino, travis-ci, git
+| Sample costume respository: https://github.com/pjf/clockwork-masters
+| Sample escape room repository: https://github.com/PopUpPlayground/room-service
 
-Responsible for numerous embedded systems in commercial projects, specialising in dynamic lighting for circus costume design.
+Responsible for numerous embedded systems in commercial projects, specialising
+in dynamic lighting for circus costume design, and embedded systems for escape rooms.
+
+The largest project was "Room Service", including 2,300 lines of C++, continuous
+integration, native and embedded builds, and complex features including event queues,
+pathfinding, and hardware abstraction.
 
 ## Founder and Project Lead, Comprehensive Kerbal Archive Network, 2013-2016
 
