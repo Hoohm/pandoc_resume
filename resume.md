@@ -76,7 +76,7 @@
 :   **Technical Editor**, *Perl Best Practices*; Conway; O'Reilly
 
 2010
-:   **Foreword Writier**, *Effective Perl Programming 2nd Ed*, Hall, McAdams, and `foy`; Pearson
+:   **Foreword Writer**, *Effective Perl Programming 2nd Ed*, Hall, McAdams, and `foy`; Pearson
 
 2016
 :   **Co-author**, *Kerbal Player's Guide*, Manning, Nugent, Fenwick, Allan, and Buttfield-Addison; O'Reilly
