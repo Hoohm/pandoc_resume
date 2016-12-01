@@ -20,7 +20,7 @@
 
 1999-2000
 :   **Network Engineer**, University of Melbourne
-:   Wrote organisation-wide internet traffic accounting software managing traffic of 40,000+ staff and students.
+:   Wrote organisation-wide, internet traffic accounting software that managed traffic of 40,000+ staff and students.
 
 2001-Present
 :   **Perl Trainer and Consultant**
@@ -65,7 +65,7 @@
 ## Awards
 
 2010
-:    **White Camel award,**for outstanding contributions to the Perl community.
+:    **White Camel award, **for outstanding contributions to the Perl community.
 
 2011
 :   **O'Reilly Open Source award**, for outstanding contributions to Open Source.
