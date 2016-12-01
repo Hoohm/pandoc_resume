@@ -1,4 +1,4 @@
-SRCFILES = resume.md $(wildcard references/ref-*.md)
+SRCFILES = resume.md $(wildcard references/ref-*.md) footer.md
 
 all: html pdf docx rtf
 

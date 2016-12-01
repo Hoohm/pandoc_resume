@@ -3,7 +3,11 @@
 ----
 
 > Email: paul.j.fenwick@gmail.com \
-> Phone: +61-3-9354-6001
+> Phone: +61-3-9354-6001 \
+> Github: https://github.com/pjf \
+> Twitter: @pjf \
+> \
+> Workflow and automation are my jam.
 
 ----
 
@@ -16,15 +20,15 @@
 
 1999-2000
 :   **Network Engineer**, University of Melbourne
-:   Wrote organisation-wide internet traffic accounting software.
+:   Wrote organisation-wide internet traffic accounting software managing traffic of 40,000+ staff and students.
 
 2001-Present
 :   **Perl Trainer and Consultant**
 :   Founded and operated Perl Training Australia, which has delivered Perl and technology training to thousands of attendees across Australia, New Zealand, the Middle East, and Asia.
 
 2004-Present
-:   **Public Speaker**
-:   Partial speaking history: http://lanyrd.com/profile/pjf/sessions/
+:   **Professional Public Speaker**
+:   Partial speaking history: [http://lanyrd.com/profile/pjf/sessions/](http://lanyrd.com/profile/pjf/sessions/)
 
 :   Presented extensively on numerous technical and non-technical topics, including information security, business development, software engineering, project failure, web technologies, facebook applications, new Perl releases, cognitive biases, mental health, motivation and automation, social and global justice, asteroid mining, machine ethics, community management, and Klingon programming.
 
@@ -37,7 +41,7 @@
 :   Wrote Perl's `autodie` pragma which adds exception-oriented features to Perl's built-in functions, greatly reducing the effort required for error-handling, and reducing the chance of missing error conditions in everyday programming. The pragma was rapidly adopted as part of the core language, and widely recommended as essential for all Perl programmers in books such as "Modern Perl", "Mastering Perl", and "Effective Perl Programming".
 
 2012-Present
-:   **Embedded Systems**
+:   **Embedded Systems Development**
 :   Main technologies: C++, platformio, arduino, travis-ci, git
 :   Sample costume respository: https://github.com/pjf/clockwork-masters
 :   Sample escape room repository: https://github.com/PopUpPlayground/room-service
@@ -58,10 +62,6 @@
 
 :   The project has over 200 code and metadata contributors, and more than 120,000 users.
 
-## Public Speaking
-
-Yeah, I'm good.
-
 ## Awards
 
 2010
@@ -70,7 +70,7 @@ Yeah, I'm good.
 2011
 :   **O'Reilly Open Source award**, for outstanding contributions to Open Source.
 
-## Notable Books
+## Books
 
 2005
 :   **Technical Editor**, *Perl Best Practices*; Conway; O'Reilly
@@ -87,5 +87,13 @@ Yeah, I'm good.
 - Fan fiction
 - Taking rhetorical questions literally
 
+## Core technologies
+
+- Perl
+- C#
+- travis-ci
+- git
+
 ## References
 
+<!-- This area gets filled by the build process. References aren't in the main repo so I don't disclose personal details. -->
