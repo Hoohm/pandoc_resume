@@ -4,10 +4,10 @@
 
 > Email: paul.j.fenwick@gmail.com \
 > Phone: +61-3-9354-6001 \
-> Github: https://github.com/pjf \
-> Twitter: @pjf \
+> Github: [https://github.com/pjf](https://github.com/pjf) \
+> Twitter: [@pjf](https://twitter.com/pjf) \
 > \
-> Workflow and automation are my jam.
+> Software and workflow architect
 
 ----
 
@@ -28,7 +28,7 @@
 
 2004-Present
 :   **Professional Public Speaker**
-:   Partial speaking history: [http://lanyrd.com/profile/pjf/sessions/](http://lanyrd.com/profile/pjf/sessions/)
+:   Links: [lanyrd speaking history](http://lanyrd.com/profile/pjf/sessions/)
 
 :   Presented extensively on numerous technical and non-technical topics, including information security, business development, software engineering, project failure, web technologies, facebook applications, new Perl releases, cognitive biases, mental health, motivation and automation, social and global justice, asteroid mining, machine ethics, community management, and Klingon programming.
 
@@ -37,14 +37,14 @@
 2007
 :   **Perl's `autodie` pragma**
 :   Main techologies: perl, travis-ci, git
+:   Links: [github repo](https://github.com/pjf/autodie)
 
 :   Wrote Perl's `autodie` pragma which adds exception-oriented features to Perl's built-in functions, greatly reducing the effort required for error-handling, and reducing the chance of missing error conditions in everyday programming. The pragma was rapidly adopted as part of the core language, and widely recommended as essential for all Perl programmers in books such as "Modern Perl", "Mastering Perl", and "Effective Perl Programming".
 
 2012-Present
 :   **Embedded Systems Development**
 :   Main technologies: C++, platformio, arduino, travis-ci, git
-:   Sample costume respository: https://github.com/pjf/clockwork-masters
-:   Sample escape room repository: https://github.com/PopUpPlayground/room-service
+:   Links: [sample costume repo](https://github.com/pjf/clockwork-masters), [room service repo](https://github.com/PopUpPlayground/room-service)
 
 :   Responsible for numerous embedded systems in commercial projects, specialising in dynamic lighting for circus costume design, and embedded systems for escape rooms.
 
@@ -53,8 +53,7 @@
 2013-2016
 :   **Founder and Project Lead**, Comprehensive Kerbal Archive Network (KSP-CKAN)
 :   Main technologies: C#, Perl, JSON, AWS, travis-ci, jenkins, git
-:   Organisation: https://github.com/KSP-CKAN
-:   Main client repo: https;//github.com/KSP-CKAN/CKAN
+:   Links: [organisation repo](https://github.com/KSP-CKAN), [main client repo](https;//github.com/KSP-CKAN/CKAN), [releases](https://github.com/KSP-CKAN/CKAN/releases)
 
 :   Founded the Comprehensive Kerbal Archive Network, a system for installing and distributing mods for Kerbal Space Program. Based upon the Debian standard, this cross-platform (Max/Linux/Windows), open source (MIT) licensed project tracks and indexes thousands of packages, which are then made available seamlessly to hundreds of thousands of users.
 
@@ -86,13 +85,6 @@
 - Calligraphy
 - Fan fiction
 - Taking rhetorical questions literally
-
-## Core technologies
-
-- Perl
-- C#
-- travis-ci
-- git
 
 ## References
 
