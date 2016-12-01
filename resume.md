@@ -20,10 +20,12 @@
 
 1999-2000
 :   **Network Engineer**, University of Melbourne
+:   Main technologies: perl, cvs, netflow, postgreSQL
 :   Wrote organisation-wide, internet traffic accounting software that managed traffic of 40,000+ staff and students.
 
 2001-Present
 :   **Perl Trainer and Consultant**
+:   Main technologies: perl, git, Dancer, SQLite, MySQL
 :   Founded and operated Perl Training Australia, which has delivered Perl and technology training to thousands of attendees across Australia, New Zealand, the Middle East, and Asia.
 
 2004-Present
