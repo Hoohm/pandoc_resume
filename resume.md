@@ -1,100 +1,70 @@
-Johnny Coder
-============
+Paul J. Fenwick, BSc
+paul.j.fenwick@gmail.com
 
-----
+# Education
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+- Bachelor of Science, University of Melbourne, 1999
 
-----
+# Notable Projects
 
-Education
----------
+## Network Engineering, University of Melbourne
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+- Wrote organisation-wide internet traffic accounting software
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+## Perl Trainer and Consultant
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+## Public Speaker
 
-    *Minor: Awesomeology*
+## Perl's `autodie` pragma
 
-Experience
-----------
+## Embedded systems, 2012-Present
 
-**Your Most Recent Work Experience:**
+| Main technologies: C++, platformio, arduino, git
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Responsible for numerous embedded systems in commercial projects, specialising in dynamic lighting for circus costume design.
 
-* First item
+## Founder and Project Lead, Comprehensive Kerbal Archive Network, 2013-2016
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+| Main technologies: C#, Perl, JSON, AWS, travis-ci, jenkins, git
+| Organisation: https://github.com/KSP-CKAN
+| Main client repo: https;//github.com/KSP-CKAN/CKAN
 
-**That Other Job You Had**
+Founded the Comprehensive Kerbal Archive Network, a system for installing and
+distributing mods for Kerbal Space Program. Based upon the Debian standard,
+this cross-platform (Max/Linux/Windows), open source (MIT) licensed project
+tracks and indexes thousands of packages, which are then made available
+seamlessly to hundreds of thousands of users.
 
-Also with a short description.
+Ensured high-quality processes throughout the project and relatives. All code
+was subject to continuous integration testing and required code review before
+merging. Open issues were tagged by sub-system, urgency, and ease of work for
+new contributors. All metadata is tracked and tagged using git, making auditing
+and fault reversal straightforward. The client has had over 100 releases, all
+of which have been automated using travis-ci and github.
 
-Technical Experience
---------------------
+The project has over 200 code and metadata contributors, and more than 120,000
+users.
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+# Public Speaking
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+# Awards
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+- 2011 O'Reilly Open Source award, for outstanding contributions to Open Source.
+- 2010 White Camel award, for outstanding contributions to the Perl community.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+# Notable Books
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+- Technical Editor, "Perl Best Practices"; Conway; O'Reilly, 2005
+- Foreword, "Effective Perl Programming 2nd Ed", Hall, McAdams, and `foy`; Pearson, 2010
+- Co-author, "Kerbal Player's Guide", Manning, Nugent, Fenwick, Allan, and  Buttfield-Addison; O'Reilly 2016
 
-[ref]: https://github.com/githubuser/superlongprojectname
+# Notable Skills
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+- Calligraphy
+- Fan fiction
+- Taking rhetorical questions literally
 
-* Human Languages:
+# References
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
