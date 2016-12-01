@@ -5,7 +5,7 @@
 > Email: paul.j.fenwick@gmail.com \
 > Phone: +61-3-9354-6001 \
 > Github: [https://github.com/pjf](https://github.com/pjf) \
-> Twitter: [@pjf](https://twitter.com/pjf) \
+> Twitter: @[pjf](https://twitter.com/pjf) \
 > \
 > Software and workflow architect
 
