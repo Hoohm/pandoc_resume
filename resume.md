@@ -55,6 +55,7 @@
 2013-Present
 :   **Project Lead and API Integrator**, Exobrain framework
 :   Main technologies: Perl, 0MQ, Dancer, Docker, many 3rd party APIs
+:   Links: [main repo](https://github.com/pjf/exobrain)
 :
 :   Created my own multi-platform, agent-based framework dubbed  *exobrain* to further automate my life. Consumed APIs from Twitter, Facebook, RememberTheMilk, Habitica, Pushover, Beeminder, FourSquare, iDoneThis, IMAP, Twilio, and other services. Provided callback APIs for Beeminder and Tasker. Development spin-offs included the publishing of numerous Perl modules to allow others to integrate with third-party services.
 
@@ -63,6 +64,13 @@
 :   Main technologies: Perl, Plack, Dancer, Starman, JSON, REST, prove, git
 
 :   Created scalable internal APIs that bridged between the aging ASIC DataStream protocol and modern RESTful JSON ones, allowing front-end developers to use their preferred technologies rather than having to count bytes on an ISDN interface. Used mock objects to allow for both continuous unit and integration testing.
+
+2013-Present
+:   **Founder and Project Lead**, National Rick Astley hotline
+:   Main technologies: Python, Flask, Zappa, Perl, Dancer, AWS Lambda, AWS API Gateway, Twilio
+:   Links: [main repo](https://github.com/pjf/rickastley) XXX CHECK URL
+
+:   Created serverless, scaleable, multi-national VoIP services to bring joy to music-lovers around the world, with interactive menus and both inbound and outbound call facilities. Enterprise level serverless scaling was achieved by using Zappa to deploy Python Flask applications to AWS Lambda, allowing for dynamic handling of call volumes without the need for traditional server maintenance.
 
 2013-2016
 :   **Founder and Project Lead**, Comprehensive Kerbal Archive Network (KSP-CKAN)
