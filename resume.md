@@ -52,6 +52,18 @@
 
 :   The largest project was "Room Service", including 2,300 lines of C++, continuous integration, native and embedded builds, and complex features including event queues, pathfinding, and hardware abstraction.
 
+2013-Present
+:   **Project Lead and API Integrator**, Exobrain framework
+:   Main technologies: Perl, 0MQ, Dancer, Docker, many 3rd party APIs
+:
+:   Created my own multi-platform, agent-based framework dubbed  *exobrain* to further automate my life. Consumed APIs from Twitter, Facebook, RememberTheMilk, Habitica, Pushover, Beeminder, FourSquare, iDoneThis, IMAP, Twilio, and other services. Provided callback APIs for Beeminder and Tasker. Development spin-offs included the publishing of numerous Perl modules to allow others to integrate with third-party services.
+
+2012-2015
+:   **API Developer**, Australian Securities and Industries Commission
+:   Main technologies: Perl, Plack, Dancer, Starman, JSON, REST, prove, git
+
+:   Created scalable internal APIs that bridged between the aging ASIC DataStream protocol and modern RESTful JSON ones, allowing front-end developers to use their preferred technologies rather than having to count bytes on an ISDN interface. Used mock objects to allow for both continuous unit and integration testing.
+
 2013-2016
 :   **Founder and Project Lead**, Comprehensive Kerbal Archive Network (KSP-CKAN)
 :   Main technologies: C#, Perl, JSON, AWS, travis-ci, jenkins, git
