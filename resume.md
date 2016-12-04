@@ -61,7 +61,7 @@
 :   **Project Lead and API Integrator**, Exobrain framework
 :   Main technologies: Perl, 0MQ, Dancer, Docker, many 3rd party APIs
 :   Links: [Exobrain repo](https://github.com/pjf/exobrain)
-:
+
 :   Created my own multi-platform, agent-based framework dubbed *exobrain* to further automate my life. Consumed APIs from Twitter, Facebook, RememberTheMilk, Habitica, Pushover, Beeminder, Foursquare, iDoneThis, IMAP, Twilio, and other services. Provided callback APIs for Beeminder and Tasker. Development spin-offs included the publishing of numerous Perl modules to allow others to integrate with third-party services.
 
 2012-2015
