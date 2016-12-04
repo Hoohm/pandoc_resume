@@ -75,18 +75,16 @@
 :   **Founder and Project Lead**, National Rick Astley hotline
 :   Main technologies: Python, Flask, Zappa, Perl, Dancer, AWS Lambda, AWS API Gateway, Twilio
 
-:   Created serverless, scalable, multi-national VoIP services to bring joy to music-lovers around the world, with interactive menus and both inbound and outbound call facilities. Enterprise level serverless scaling was achieved by using Zappa to deploy Python Flask applications to AWS Lambda, allowing for dynamic handling of call volumes without the need for traditional server maintenance.
+:   Created serverless, scalable, multi-national VoIP services to bring joy to music-lovers around the world, with interactive menus and both inbound and outbound calls. Enterprise level serverless scaling was achieved by using Zappa to deploy Python Flask applications to AWS Lambda, allowing for dynamic handling of call volumes without the need for traditional server maintenance.
 
 2013--2016
 :   **Founder and Project Lead**, Comprehensive Kerbal Archive Network (KSP-CKAN)
 :   Main technologies: C#, Perl, JSON, AWS, Travis-CI, Jenkins, Git
 :   Links: [Projects](https://github.com/KSP-CKAN), [Client repo](https;//github.com/KSP-CKAN/CKAN), [Releases](https://github.com/KSP-CKAN/CKAN/releases)
 
-:   Founded the Comprehensive Kerbal Archive Network, a system for installing and distributing mods for Kerbal Space Program. Based upon the Debian standard, this cross-platform (Max/Linux/Windows), open source (MIT) licensed project tracks and indexes thousands of packages, which are then made available seamlessly to hundreds of thousands of users.
+:   Founded the Comprehensive Kerbal Archive Network, a system for installing and distributing mods for Kerbal Space Program. Based upon the Debian standard, this cross-platform, open source project tracks and indexes thousands of packages, which are then made available seamlessly to hundreds of thousands of users.
 
-:   Ensured high-quality processes throughout the project and relatives. All code was subject to continuous integration testing and required code review before merging. Open issues were tagged by sub-system, urgency, and ease of work for new contributors. All metadata is tracked and tagged using Git, making auditing and fault reversal straightforward. The client has had over 100 releases, all of which have been automated using Travis-CI and github.
-
-:   The project has over 200 code and metadata contributors, and more than 120,000 users.
+:   Ensured high-quality processes throughout the project and relatives. All code was subject to continuous integration testing and required code review before merging. Open issues were tagged by sub-system, urgency, and ease of work for new contributors. All metadata is tracked and tagged using Git, making auditing and fault reversal straightforward. The client has had over 100 releases, all of which have been automated using Travis-CI and github. There have been over 200 individual contributors to the project.
 
 ## Awards
 
@@ -117,6 +115,6 @@
 
 -->
 
-## References
+## Selected References
 
 <!-- This area gets filled by the build process. References aren't in the main repo so I don't disclose personal details. -->
