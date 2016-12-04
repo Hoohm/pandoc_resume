@@ -18,12 +18,12 @@
 
 ## Notable Projects
 
-1999-2000
+1999--2000
 :   **Network Engineer**, University of Melbourne
 :   Main technologies: Perl, CVS, NetFlow, PostgreSQL
 :   Wrote organisation-wide, internet traffic accounting software that managed traffic of 40,000+ staff and students.
 
-2001-Present
+2001--Present
 :   **Perl Trainer and Consultant**
 :   Main technologies: Perl, Git, Dancer, SQLite, MySQL
 :   Founded and operated Perl Training Australia, which has delivered Perl and technology training to thousands of attendees across Australia, New Zealand, the Middle East, and Asia.
@@ -31,7 +31,7 @@
 <!-- Gosh, I wish I had a way of doing conditional sections. I could write one myself,
   -- but that's overkill for when I need a resume for one application. So comments it is.
 
-2004-Present
+2004--Present
 :   **Professional Public Speaker**
 :   Links: [lanyrd speaking history](http://lanyrd.com/profile/pjf/sessions/)
 
@@ -48,7 +48,7 @@
 
 :   Wrote Perl's `autodie` pragma which adds exception-oriented features to Perl's built-in functions, greatly reducing the effort required for error-handling, and reducing the chance of missing error conditions in everyday programming. The pragma was rapidly adopted as part of the core language, and widely recommended as essential for all Perl programmers in books such as "Modern Perl", "Mastering Perl", and "Effective Perl Programming".
 
-2012-Present
+2012--Present
 :   **Embedded Systems Development**
 :   Main technologies: C++, Platformio, Arduino, Travis-CI, Git
 :   Links: [Sample costume repo](https://github.com/pjf/clockwork-masters), [Room Service repo](https://github.com/PopUpPlayground/room-service)
@@ -57,27 +57,27 @@
 
 :   The largest project was "Room Service", including 2,300 lines of C++, continuous integration, native and embedded builds, and complex features including event queues, pathfinding, and hardware abstraction.
 
-2013-Present
+2013--Present
 :   **Project Lead and API Integrator**, Exobrain framework
 :   Main technologies: Perl, 0MQ, Dancer, Docker, many 3rd party APIs
 :   Links: [Exobrain repo](https://github.com/pjf/exobrain)
 
 :   Created my own multi-platform, agent-based framework dubbed *exobrain* to further automate my life. Consumed APIs from Twitter, Facebook, RememberTheMilk, Habitica, Pushover, Beeminder, Foursquare, iDoneThis, IMAP, Twilio, and other services. Provided callback APIs for Beeminder and Tasker. Development spin-offs included the publishing of numerous Perl modules to allow others to integrate with third-party services.
 
-2012-2015
+2012--2015
 :   **API Developer**, Information Brokers
 :   Main technologies: Perl, Plack, Dancer, Starman, JSON, REST, prove, Git
 :   Links: [Information Brokers](https://www.ib.com.au/)
 
 :   Created scalable internal APIs that bridged between the Australian Securities and Investments Commission (ASIC) DataStream protocol and modern RESTful JSON ones, allowing front-end developers to use their preferred technologies rather than having to count bytes on an ISDN interface. Used mock objects to allow for both continuous unit and integration testing.
 
-2013-Present
+2013--Present
 :   **Founder and Project Lead**, National Rick Astley hotline
 :   Main technologies: Python, Flask, Zappa, Perl, Dancer, AWS Lambda, AWS API Gateway, Twilio
 
 :   Created serverless, scalable, multi-national VoIP services to bring joy to music-lovers around the world, with interactive menus and both inbound and outbound call facilities. Enterprise level serverless scaling was achieved by using Zappa to deploy Python Flask applications to AWS Lambda, allowing for dynamic handling of call volumes without the need for traditional server maintenance.
 
-2013-2016
+2013--2016
 :   **Founder and Project Lead**, Comprehensive Kerbal Archive Network (KSP-CKAN)
 :   Main technologies: C#, Perl, JSON, AWS, Travis-CI, Jenkins, Git
 :   Links: [Projects](https://github.com/KSP-CKAN), [Client repo](https;//github.com/KSP-CKAN/CKAN), [Releases](https://github.com/KSP-CKAN/CKAN/releases)
