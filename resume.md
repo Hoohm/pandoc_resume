@@ -5,9 +5,9 @@
 > Email: paul.j.fenwick@gmail.com \
 > Phone: +61-3-9354-6001 \
 > Github: [https://github.com/pjf](https://github.com/pjf) \
-> Twitter: @[pjf](https://twitter.com/pjf) \
+> Twitter: [\@pjf](https://twitter.com/pjf) \
 > \
-> Software and workflow architect
+> Software and automation architect
 
 ----
 
@@ -31,7 +31,7 @@
 2004--Present
 :   **Professional Public Speaker**
 
-:   Presented extensively on numerous technical and non-technical topics, including information security, business development, software engineering, project failure, web technologies, facebook applications, new Perl releases, cognitive biases, mental health, motivation and automation, social and global justice, asteroid mining, machine ethics, community management, and Klingon programming.
+:   Presented extensively on numerous technical and non-technical topics, including information security, business development, software engineering, project failure, web technologies, Facebook and Android privacy, new Perl releases, cognitive biases, mental health, motivation and automation, social and global justice, asteroid mining, machine ethics, community management, and Klingon programming.
 
 :   Keynoted at conferences worldwide, including OSCON, Linux.conf.au, /dev/world, SAGE-AU, ITx, BuzzConf, Open Source Days, ConFoo, Open Source Bridge, and others.
 
