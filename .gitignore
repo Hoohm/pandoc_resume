@@ -8,4 +8,5 @@ resume.tex
 *.docx
 *.rtf
 references/ref-*.md
+references/old-*.md
 *.bak
