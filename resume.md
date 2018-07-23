@@ -38,14 +38,14 @@
 2007
 :   **Perl's `autodie` pragma**
 :   Main technologies: Perl, Travis-CI, Git
-:   Links: [Github repo](https://github.com/pjf/autodie)
+:   Links: [Github](https://github.com/pjf/autodie)
 
 :   Wrote Perl's `autodie` pragma which adds exception-oriented features to Perl's built-in functions, greatly reducing the effort required for error-handling, and reducing the chance of missing error conditions in everyday programming. The pragma was rapidly adopted as part of the core language, and widely recommended as essential for all Perl programmers in books such as "Modern Perl", "Mastering Perl", and "Effective Perl Programming".
 
 2012--Present
 :   **Embedded Systems Development**
 :   Main technologies: C++, Platformio, Arduino, Travis-CI, Git
-:   Links: [Sample costume repo](https://github.com/pjf/clockwork-masters), [Room Service repo](https://github.com/PopUpPlayground/room-service)
+:   Links: [Sample costume controller source](https://github.com/pjf/clockwork-masters), [Room Service source](https://github.com/PopUpPlayground/room-service)
 
 :   Responsible for numerous embedded systems in commercial projects, specialising in dynamic lighting for circus costume design, and embedded systems for escape rooms.
 
@@ -54,7 +54,7 @@
 2013--Present
 :   **Project Lead and API Integrator**, Exobrain framework
 :   Main technologies: Perl, 0MQ, Dancer, Docker, Twilio SMS, and many 3rd party APIs
-:   Links: [Exobrain repo](https://github.com/pjf/exobrain)
+:   Links: [Github](https://github.com/pjf/exobrain)
 
 :   Created my own multi-platform, agent-based framework dubbed *exobrain* to further automate my life. Consumed APIs from Twitter, Facebook, RememberTheMilk, Habitica, Pushover, Beeminder, Foursquare, iDoneThis, IMAP, Twilio, and other services. Provided callback APIs for Beeminder and Tasker. Development spin-offs included the publishing of numerous Perl modules to allow others to integrate with third-party services.
 
@@ -68,13 +68,14 @@
 2013--Present
 :   **Founder and Project Lead**, National Rick Astley hotline
 :   Main technologies: Python, Flask, Zappa, Perl, Dancer, AWS Lambda, AWS API Gateway, Twilio Voice
+:   Links: [Github](https://github.com/pjf/rickastley), [PyCon talk](https://www.youtube.com/watch?v=S2FbzZiycsM)
 
 :   Created serverless, scalable, multi-national VoIP services to bring joy to music-lovers around the world, with interactive menus and both inbound and outbound calls. Enterprise level serverless scaling was achieved by using Zappa to deploy Python Flask applications to AWS Lambda, allowing for dynamic handling of call volumes without the need for traditional server maintenance.
 
 2013--2016
 :   **Founder and Project Lead**, Comprehensive Kerbal Archive Network (KSP-CKAN)
 :   Main technologies: C#, Perl, JSON, JSON Schemata, Travis-CI, Jenkins, Git
-:   Links: [Projects](https://github.com/KSP-CKAN), [Client repo](https;//github.com/KSP-CKAN/CKAN), [Releases](https://github.com/KSP-CKAN/CKAN/releases)
+:   Links: [Projects (Github)](https://github.com/KSP-CKAN), [Client source](https://github.com/KSP-CKAN/CKAN)
 
 :   Founded the Comprehensive Kerbal Archive Network, a system for installing and distributing mods for Kerbal Space Program. Based upon the Debian standard, this cross-platform, open source project tracks and indexes thousands of packages, which are then made available seamlessly to hundreds of thousands of users.
 
@@ -83,7 +84,7 @@
 2017
 :   **API Developer**, United Nations Office for the Coordination of Humanitarian Affairs (UN-OCHA)
 :   Main technologies: Python, JavaScript, JSON, Jenkins, Travis-CI, Git, YAML, Twilio SMS, Hubot
-:   Links: [Main site](http://vocabulary.unocha.org/), [Code repository](https://github.com/UN-OCHA/taas), [Data respository](https://github.com/UN-OCHA/taas-data)
+:   Links: [Main site](http://vocabulary.unocha.org/), [Code](https://github.com/UN-OCHA/taas), [Data Exports](https://github.com/UN-OCHA/taas-data)
 
 :   Developed UN-OCHA's *Taxonomy as a Service* (TaaS), allowing staff with no technical expertise to maintain complex taxonomies in spreadsheet form which can then be exported in JSON for consumption by other products and groups. Primarily coded in Python and executed by Jenkins, TaaS completely automates the process of converting human-readable spreadsheets into machine readable data, including auditing; machine and human review; optional, inherited, and complex fields; data transformation; and publishing. Control is via a simple chat interface using Hubot. The entire project is open source, including source code, inputs, transformation files, and outputs. As an open source project it includes numerous contributions from the public in the form of code, review, and technical advice.
 
