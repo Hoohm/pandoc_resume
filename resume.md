@@ -7,7 +7,9 @@
 > Github: [https://github.com/pjf](https://github.com/pjf) \
 > Twitter: [\@pjf](https://twitter.com/pjf) \
 > \
-> Software and automation architect
+> Software and automation architect \
+> \
+> Open Source, Linux, Git, C#, C++, Perl, Python, Travis-CI, Public speaking, Software team management
 
 ----
 
@@ -47,9 +49,9 @@
 :   Main technologies: C++, Platformio, Arduino, Travis-CI, Git
 :   Links: [Sample costume controller source](https://github.com/pjf/clockwork-masters), [Room Service source](https://github.com/PopUpPlayground/room-service)
 
-:   Responsible for numerous embedded systems in commercial projects, specialising in dynamic lighting for circus costume design, and embedded systems for escape rooms.
+:   Responsible for numerous embedded systems in commercial projects, specialising in dynamic lighting for circus costume design, and embedded systems for physical games.
 
-:   The largest project was "Room Service", including 2,300 lines of C++, continuous integration, native and embedded builds, and complex features including event queues, pathfinding, and hardware abstraction.
+:   The largest project was "Room Service", an escape-room style experience including 2,300 lines of C++, continuous integration, native and embedded builds, and complex features including event queues, pathfinding, and hardware abstraction.
 
 2013--Present
 :   **Project Lead and API Integrator**, Exobrain framework
