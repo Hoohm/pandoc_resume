@@ -20,15 +20,22 @@
 
 ## Notable Projects
 
-1999--2000
+1998--1999
 :   **Network Engineer**, University of Melbourne
 :   Main technologies: Perl, CVS, NetFlow, PostgreSQL
 :   Wrote organisation-wide, internet traffic accounting software that managed traffic of 40,000+ staff and students.
+
+1999--2001
+:   **Software Architect**, SchoolsNet
+:   Main technologies: Perl, Apache, Squid, MySQL
+:   Developed and maintained a diverse range of server-oriented systems for use by schools and students across Australia.
+:   Team leader and principal architect of the internal statistics team, measuring customer usage of products and sites.
 
 2001--Present
 :   **Perl Trainer and Consultant**
 :   Main technologies: Perl, Git, Dancer, SQLite, MySQL
 :   Founded and operated Perl Training Australia, which has delivered Perl and technology training to thousands of attendees across Australia, New Zealand, the Middle East, and Asia.
+:   Consulted for organisations around the world, especially in the energy, defence, and intelligence sectors.
 
 2004--Present
 :   **Professional Public Speaker**
