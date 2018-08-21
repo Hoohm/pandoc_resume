@@ -7,6 +7,6 @@ resume.tex
 *.swp
 *.docx
 *.rtf
-references/ref-*.md
-references/old-*.md
 *.bak
+markdowns/resume.md
+.snakemake*

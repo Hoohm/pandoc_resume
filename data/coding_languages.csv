@@ -1,0 +1,8 @@
+Language,Started,Frequency,Purpose
+Python,2012,Daily,Low level scripting and packages
+R,2014,Daily,"High level statistics, analysis and plotting"
+Git,2015,Daily,Code history and collaboration
+Snakemake,2016,Weekly,Pipeline management for reproducible data processing and analysis
+Markdown,2016,Monthly,On the fly report generation
+Shiny,2016.5,Monthly,Easy to use user interface
+Travis-ci,2017,Monthly,Continuous integration on github

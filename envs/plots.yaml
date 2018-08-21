@@ -1,0 +1,6 @@
+channels:
+  - conda-forge
+dependencies:
+  - r-ggplot2
+  - r-stringr
+  - r-dplyr
